@@ -1,0 +1,38 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bxs-dashboard"
+    },
+    {
+        "display_name": "Courses",
+        "route": "/courses",
+        "icon": "bx bxs-layer"
+    },
+    {
+        "display_name": "Schedule",
+        "route": "/schedule",
+        "icon": "bx bx-calendar-event"
+    },
+    {
+        "display_name": "Transcript",
+        "route": "/transcript",
+        "icon": "bx bx-paste"
+    },
+    {
+        "display_name": "Online learning",
+        "route": "/onlinelearning",
+        "icon": "bx bx-cast"
+    },
+    {
+        "display_name": "Forum",
+        "route": "/forum",
+        "icon": "bx bx-git-repo-forked"
+    },
+    {
+        "display_name": "Competition",
+        "route": "/competition",
+        "icon": "bx bx-group"
+    }
+    
+]

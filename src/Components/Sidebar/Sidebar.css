@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&display=swap');
+
+.sidebar{
+    min-width: var(--sidebar-width);
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: var(--main-bg);
+    box-shadow: var(box-shadow);
+
+}
+
+.sidebar__logo {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Red Rose', cursive;
+    font-size: 3rem;
+
+}
+
+.sidebar__logo > img{
+    height: 45px;
+}
+
+
+
+.sidebar__item-inner{
+    padding-top: 15px  ;
+    padding-bottom: 15px  ;
+    padding-left:50px ;
+    display: flex;
+    align-items: center;
+    
+    font-weight: 400;
+    font-size: 1.2rem;
+    transition: color .3s ease 0s;
+}
+
+.sidebar__item-inner > i{
+    margin-right: 10px ;
+    font-size: 1.5rem;
+}
+
+.sidebar__item-inner > span {
+    text-transform: capitalize;
+}
+
+.sidebar__item-inner:hover{
+   background-color: #F0F2F5;
+}
+
+.sidebar__item-inner.active{
+   
+    background-color: #F7CB15;
+    color: #666464;
+}
