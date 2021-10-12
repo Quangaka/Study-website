@@ -1,0 +1,37 @@
+[
+    {
+        "type": 1,
+        "name": "Ôn tập chuẩn bị thi giữa kỳ, cuối kỳ",
+        "title": 34,
+        "post": 90,
+        "content": "Nơi đăng các thông tin về các lớp ôn tập do các nhóm SV, lớp SV, Khoa ... tổ chức nhằm ôn tập củng cố kiến thức dành cho mọi SV. Vào cửa tự do."
+    },
+    {
+        "type": 1,
+        "name": "Kiến thức cơ sở",
+        "title": 34,
+        "post": 60,
+        "content": "Anh văn, Toán học, vât lý, hóa học, sinh vật, thiên văn, địa lý, phong thủy, ngũ hành, bát quái, v.v..."
+    },
+    {
+        "type": 1,
+        "name": "Tin học cơ bản",
+        "title": 16,
+        "post": 45,
+        "content": "Nơi trao đổi về tin học cơ bản: Windows, Word, Excel,..."
+    },
+    {
+        "type": 1,
+        "name": "Thuật toán - OLP",
+        "title": 46,
+        "post": 24,
+        "content": "Nơi trao đổi của các bạn đam mê vẻ đẹp của thuật toán, noi trao đổi của các bạn trong đội OLP tin học về thuật toán"
+    },
+    {
+        "type": 2,
+        "name": "Thuật toán - OLP",
+        "title": 46,
+        "post": 24,
+        "content": "Nơi trao đổi của các bạn đam mê vẻ đẹp của thuật toán, noi trao đổi của các bạn trong đội OLP tin học về thuật toán"
+    }
+]

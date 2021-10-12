@@ -138,3 +138,59 @@ input:focus{
 .sda{
     margin: 30px;
 }
+
+.card_custom {
+    height: 50px;
+    padding: 5px;
+    align-items: center;
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    transition: color 0.5s ease 0s;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    margin-left:5px;
+}
+
+.search_forum_custom {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left:5px;
+    width: 400px;
+    height: 40px;
+    font-size: 16px;
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    padding: 10px;
+}
+
+.comment_forum_custom {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left:5px;
+    width: 100%;
+    height: 40px;
+    font-size: 18px;
+    background-color: var(--main-bg);
+    box-shadow: var(--box-shadow);
+    border-radius: var(--border-radius);
+    padding: 10px;
+}
+
+.image {
+    align-content: center;
+    margin: auto;
+    height: auto;
+    width: auto;
+    max-width: 800px;
+    max-height: 400px;
+    background-color: var(--txt-color);
+}
+
+.div_center {
+    align-items: center;
+}

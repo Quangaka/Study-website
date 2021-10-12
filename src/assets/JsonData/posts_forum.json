@@ -1,0 +1,47 @@
+[
+    {
+        "id_topic": 1,
+        "name_topic": "Ôn tập chuẩn bị thi giữa kỳ, cuối kỳ",
+        "name": "Câu hỏi học tập",
+        "seen": 34,
+        "reply": 90,
+        "user": "19520930",
+        "date": "19/2/2021"
+    },
+    {
+        "id_topic": 1,
+        "name_topic": "Ôn tập chuẩn bị thi giữa kỳ, cuối kỳ",
+        "name": "Môn chủ nghĩa xã hội",
+        "seen": 34,
+        "reply": 90,
+        "user": "19520930",
+        "date": "19/2/2021"
+    },
+    {
+        "id_topic": 1,
+        "name_topic": "Ôn tập chuẩn bị thi giữa kỳ, cuối kỳ",
+        "name": "Hỏi về kết quả ọc tập",
+        "seen": 34,
+        "reply": 90,
+        "user": "19520930",
+        "date": "19/2/2021"
+    },
+    {
+        "id_topic": 1,
+        "name_topic": "Ôn tập chuẩn bị thi giữa kỳ, cuối kỳ",
+        "name": "Giải đáp bài tập",
+        "seen": 34,
+        "reply": 90,
+        "user": "19520930",
+        "date": "19/2/2021"
+    },
+    {
+        "id_topic": 1,
+        "name_topic": "Ôn tập chuẩn bị thi giữa kỳ, cuối kỳ",
+        "name": "Thực hành",
+        "seen": 34,
+        "reply": 90,
+        "user": "19520930",
+        "date": "19/2/2021"
+    }
+]
