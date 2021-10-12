@@ -5,12 +5,14 @@ import './Layout.css'
 import Topnav from '../Topnav/TopNav'
 import Sidebar from '../Sidebar/Sidebar'
 import Routes from '../Routes'
+import Login from '../../pages/Login/Login'
 
-import { BrowserRouter, Route } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 
 const layout = () => {
     return (
-        <BrowserRouter>
+        <Router>
+            <Switch>
             <Route render={(props) => (
                 <div className='layout'>
                     <Sidebar {...props}/>     
@@ -24,7 +26,11 @@ const layout = () => {
             )}>
 
             </Route>
-        </BrowserRouter>
+            <Route path="">
+                <Login/>
+            </Route>
+            </Switch>
+        </Router>
     )
 }
 
